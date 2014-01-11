@@ -1,4 +1,3 @@
 rtnotify
 ========
-
-rtnotify - jquery css notifications
+jquery css notifications
